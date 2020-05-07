@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "714312749126",
+    "firebase_url": "https://newnntnxxi.firebaseio.com",
+    "project_id": "newnntnxxi",
+    "storage_bucket": "newnntnxxi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:714312749126:android:fc09996aa47729f4913a47",
+        "android_client_info": {
+          "package_name": "com.fmovies.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "714312749126-ldsr8r1vj0r1nndiffb81pcb9pcr08mn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXaA7XxaozQ-aEHIafjlukk2Puw_BOSus"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "714312749126-ldsr8r1vj0r1nndiffb81pcb9pcr08mn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

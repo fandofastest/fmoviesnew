@@ -1,0 +1,289 @@
+<resources>
+    <!-- Facebook application ID and custom URL scheme (app ID prefixed by 'fb'). -->
+    <string name="facebook_application_id" translatable="false">565305410731540</string>
+    <string name="facebook_login_protocol_scheme" translatable="false">fb565305410731540</string>
+
+    //admob
+    <string name="admob_application_id" translatable="false">ca-app-pub-3940256099942544~3347511713</string>
+
+    <string name="app_name">Fmovies App</string>
+    <!--app_title for main navigation & home title-->
+    <string name="app_title">Fmovies App</string>
+    <string name="app_version">1.0.0</string>
+    <string name="contact_email">admin@watchfmovies.xyz</string>
+    <string name="copyright_text">Copyright @watchfmovies.xyz \nAll right reserved</string>
+    <!-- App -->
+    <string name="featured_tv_channels">Featured Tv Channel</string>
+    <string name="latest_movie">Latest Movies</string>
+    <string name="latest_tv_series">Latest Tv Series</string>
+    <string name="more">More</string>
+    <string name="movie">Movies</string>
+    <string name="live_tv">Live TV</string>
+    <string name="tv_series">Series</string>
+    <string name="country">Country</string>
+    <string name="genre">Genre</string>
+    <string name="favorite">Favorite</string>
+    <string name="search">Search</string>
+    <string name="no_item_found">No item found</string>
+    <string name="cast_n_crew">Cast and Crew</string>
+    <string name="signin">Signin</string>
+    <string name="reset">Reset Password</string>
+    <string name="register">Register</string>
+    <string name="full_name">Full Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="save">Save</string>
+    <string name="director">Director :</string>
+    <string name="comments">Comments</string>
+    <string name="your_comments">Your Comments</string>
+    <string name="add_comments">Add Comments</string>
+    <string name="no_internet">No internet connection !</string>
+    <string name="copyright">Copyright</string>
+    <string name="contact_us">Contact Us</string>
+    <string name="fetch_error">Unable to fetch data</string>
+    <string name="login_first">You need to login first</string>
+    <string name="comment_empty">Comment can not empty</string>
+    <string name="error_toast">Something went wrong ! try later</string>
+
+    <string-array name="nav_item_name">
+        <item>Home</item>
+        <item>Movies</item>
+        <item>Series</item>
+        <item>Live TV</item>
+        <item>Genre</item>
+        <item>Country</item>
+        <item>Profile</item>
+        <item>Favorite</item>
+        <item>Subscription</item>
+        <item>Downloads</item>
+        <item>Settings</item>
+        <item>Sign Out</item>
+
+    </string-array>
+
+    <string-array name="nav_item_image">
+        <item>outline_home_24</item>
+        <item>outline_movie_24</item>
+        <item>outline_local_movies_24</item>
+        <item>outline_live_tv_24</item>
+        <item>outline_folder_24</item>
+        <item>outline_outlined_flag_24</item>
+        <item>outline_person_24</item>
+        <item>outline_favorite_border_24</item>
+        <item>ic_subscriptions_black_24dp</item>
+        <item>ic_file_download_black_24dp</item>
+        <item>outline_settings_24</item>
+        <item>outline_lock_24</item>
+    </string-array>
+
+
+    <string-array name="nav_item_name_2">
+        <item>Home</item>
+        <item>Movies</item>
+        <item>Series</item>
+        <item>Live TV</item>
+        <item>Genre</item>
+        <item>Country</item>
+        <item>Login</item>
+        <item>Settings</item>
+    </string-array>
+
+    <string-array name="nav_item_image_2">
+        <item>outline_home_24</item>
+        <item>outline_movie_24</item>
+        <item>outline_local_movies_24</item>
+        <item>outline_live_tv_24</item>
+        <item>outline_folder_24</item>
+        <item>outline_outlined_flag_24</item>
+        <item>outline_lock_24</item>
+        <item>outline_settings_24</item>
+    </string-array>
+
+
+    <!-- payment related to Settings -->
+    <!--PayPal accepted currency-->
+    <string-array name="paypal_currency_list">
+        <item>USD</item>
+        <item>AUD</item>
+        <item>BRL</item>
+        <item>GBP</item>
+        <item>CAD</item>
+        <item>CZK</item>
+        <item>DKK</item>
+        <item>EUR</item>
+        <item>HKD</item>
+        <item>HUF</item>
+        <item>ILS</item>
+        <item>JPY</item>
+        <item>MXN</item>
+        <item>TWD</item>
+        <item>NZD</item>
+        <item>NOK</item>
+        <item>PHP</item>
+        <item>PLN</item>
+        <item>RUB</item>
+        <item>SGD</item>
+        <item>SEK</item>
+        <item>CHF</item>
+        <item>THB</item>
+    </string-array>
+
+
+    <!--search range-->
+    <string name="year_range_start">1900</string>
+    <string name="year_range_end">2020</string>
+
+    <!-- Example General settings -->
+
+    <!-- Example settings for Data & Sync -->
+
+    <!-- Example settings for Notifications -->
+
+    <string name="title_activity_item_show">ItemShowActivity</string>
+    <string name="title_activity_details">DetailsActivity</string>
+    <string name="title_activity_reply">ReplyActivity</string>
+    <string name="play_now">Play Now</string>
+    <string name="go_premium">Go Premium</string>
+    <string name="program_guide">Program Guide</string>
+    <string name="live">Live</string>
+    <string name="watching_on">Watching live on</string>
+    <string name="all_tv_channel">All TV Channels</string>
+    <string name="you_may_also_like">You may also like</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="tv_channels">Tv Channels</string>
+    <string name="watching_catch_up_tv">Watching Catch-up TV</string>
+    <string name="deactive_account_text">If you do not want to use this account you can de-active easily.</string>
+    <string name="reason_to_deactivate_account">Reason to deactivate account</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="long_text">Aliquam eu mauris lectus. Pellentesque lacinia ut urna ut gravida. Proin libero sem, auctor in posuere sit amet</string>
+
+    <string name="terms_condition_text"><![CDATA[
+        Terms and Conditions\nWelcome to Fmovies!\n\nThese terms and conditions outline the rules and regulations for the use of Fmovies\'s Website, located at watchfmovies.xyz.\n\nBy accessing this website we assume you accept these terms and conditions. Do not continue to use Fmovies if you do not agree to take all of the terms and conditions stated on this page. Our Terms and Conditions were created with the help of the Terms & Conditions Generator Online and the Free Terms & Conditions Generator.\n\nThe following terminology applies to these Terms and Conditions, Privacy Statement and Disclaimer Notice and all Agreements: \"Client\", \"You\" and \"Your\" refers to you, the person log on this website and compliant to the Company’s terms and conditions. \"The Company\", \"Ourselves\", \"We\", \"Our\" and \"Us\", refers to our Company. \"Party\", \"Parties\", or \"Us\", refers to both the Client and ourselves. All terms refer to the offer, acceptance and consideration of payment necessary to undertake the process of our assistance to the Client in the most appropriate manner for the express purpose of meeting the Client’s needs in respect of provision of the Company’s stated services, in accordance with and subject to, prevailing law of Netherlands. Any use of the above terminology or other words in the singular, plural, capitalization and/or he/she or they, are taken as interchangeable and therefore as referring to same.\n\nCookies\nWe employ the use of cookies. By accessing Fmovies, you agreed to use cookies in agreement with the Fmovies\'s Privacy Policy.\n\nMost interactive websites use cookies to let us retrieve the user’s details for each visit. Cookies are used by our website to enable the functionality of certain areas to make it easier for people visiting our website. Some of our affiliate/advertising partners may also use cookies.\n\nLicense\nUnless otherwise stated, Fmovies and/or its licensors own the intellectual property rights for all material on Fmovies. All intellectual property rights are reserved. You may access this from Fmovies for your own personal use subjected to restrictions set in these terms and conditions.\n\nYou must not:\n\nRepublish material from Fmovies\nSell, rent or sub-license material from Fmovies\nReproduce, duplicate or copy material from Fmovies\nRedistribute content from Fmovies\nThis Agreement shall begin on the date hereof.\n\nParts of this website offer an opportunity for users to post and exchange opinions and information in certain areas of the website. Fmovies does not filter, edit, publish or review Comments prior to their presence on the website. Comments do not reflect the views and opinions of Fmovies,its agents and/or affiliates. Comments reflect the views and opinions of the person who post their views and opinions. To the extent permitted by applicable laws, Fmovies shall not be liable for the Comments or for any liability, damages or expenses caused and/or suffered as a result of any use of and/or posting of and/or appearance of the Comments on this website.\n\nFmovies reserves the right to monitor all Comments and to remove any Comments which can be considered inappropriate, offensive or causes breach of these Terms and Conditions.\n\nYou warrant and represent that:\n\nYou are entitled to post the Comments on our website and have all necessary licenses and consents to do so;\nThe Comments do not invade any intellectual property right, including without limitation copyright, patent or trademark of any third party;\nThe Comments do not contain any defamatory, libelous, offensive, indecent or otherwise unlawful material which is an invasion of privacy\nThe Comments will not be used to solicit or promote business or custom or present commercial activities or unlawful activity.\nYou hereby grant Fmovies a non-exclusive license to use, reproduce, edit and authorize others to use, reproduce and edit any of your Comments in any and all forms, formats or media.\n\nHyperlinking to our Content\nThe following organizations may link to our Website without prior written approval:\n\nGovernment agencies;\nSearch engines;\nNews organizations;\nOnline directory distributors may link to our Website in the same manner as they hyperlink to the Websites of other listed businesses; and\nSystem wide Accredited Businesses except soliciting non-profit organizations, charity shopping malls, and charity fundraising groups which may not hyperlink to our Web site.\nThese organizations may link to our home page, to publications or to other Website information so long as the link: (a) is not in any way deceptive; (b) does not falsely imply sponsorship, endorsement or approval of the linking party and its products and/or services; and © fits within the context of the linking party’s site.\n\nWe may consider and approve other link requests from the following types of organizations:\n\ncommonly-known consumer and/or business information sources;\ndot.com community sites;\nassociations or other groups representing charities;\nonline directory distributors;\ninternet portals;\naccounting, law and consulting firms; and\neducational institutions and trade associations.\nWe will approve link requests from these organizations if we decide that: (a) the link would not make us look unfavorably to ourselves or to our accredited businesses; (b) the organization does not have any negative records with us; © the benefit to us from the visibility of the hyperlink compensates the absence of Fmovies; and (d) the link is in the context of general resource information.\n\nThese organizations may link to our home page so long as the link: (a) is not in any way deceptive; (b) does not falsely imply sponsorship, endorsement or approval of the linking party and its products or services; and (c) fits within the context of the linking party’s site.\n\nIf you are one of the organizations listed in paragraph 2 above and are interested in linking to our website, you must inform us by sending an e-mail to Fmovies. Please include your name, your organization name, contact information as well as the URL of your site, a list of any URLs from which you intend to link to our Website, and a list of the URLs on our site to which you would like to link. Wait 2-3 weeks for a response.\n\nApproved organizations may hyperlink to our Website as follows:\n\nBy use of our corporate name; or\nBy use of the uniform resource locator being linked to; or\nBy use of any other description of our Website being linked to that makes sense within the context and format of content on the linking party’s site.\nNo use of Fmovies\'s logo or other artwork will be allowed for linking absent a trademark license agreement.\n\niFrames\nWithout prior approval and written permission, you may not create frames around our Webpages that alter in any way the visual presentation or appearance of our Website.\n\nContent Liability\nWe shall not be hold responsible for any content that appears on your Website. You agree to protect and defend us against all claims that is rising on your Website. No link(s) should appear on any Website that may be interpreted as libelous, obscene or criminal, or which infringes, otherwise violates, or advocates the infringement or other violation of, any third party rights.\n\nReservation of Rights\nWe reserve the right to request that you remove all links or any particular link to our Website. You approve to immediately remove all links to our Website upon request. We also reserve the right to amen these terms and conditions and it’s linking policy at any time. By continuously linking to our Website, you agree to be bound to and follow these linking terms and conditions.\n\nRemoval of links from our website\nIf you find any link on our Website that is offensive for any reason, you are free to contact and inform us any moment. We will consider requests to remove links but we are not obligated to or so or to respond to you directly.\n\nWe do not ensure that the information on this website is correct, we do not warrant its completeness or accuracy; nor do we promise to ensure that the website remains available or that the material on the website is kept up to date.\n\nDisclaimer\nTo the maximum extent permitted by applicable law, we exclude all representations, warranties and conditions relating to our website and the use of this website. Nothing in this disclaimer will:\n\nlimit or exclude our or your liability for death or personal injury;\nlimit or exclude our or your liability for fraud or fraudulent misrepresentation;\nlimit any of our or your liabilities in any way that is not permitted under applicable law; or\nexclude any of our or your liabilities that may not be excluded under applicable law.\nThe limitations and prohibitions of liability set in this Section and elsewhere in this disclaimer: (a) are subject to the preceding paragraph; and (b) govern all liabilities arising under the disclaimer, including liabilities arising in contract, in tort and for breach of statutory duty.\n\nAs long as the website and the information and services on the website are provided free of charge, we will not be liable for any loss or damage of any nature.
+    ]]></string>
+    <string name="deactivate_account">Deactivate Account</string>
+    <string name="explore_by_genre">Explore By Genre</string>
+    <string name="explore_by_country">Explore By Country</string>
+    <string name="share_this_app">Share This App</string>
+    <string name="connect_to_tv">Connect to TV</string>
+    <string name="share_body">I would like to share this TV &amp; Movie App.  Here you can download this from playstore :\n    https://play.google.com/store/apps/details?id=</string>
+    <string name="term_of_services">Term of Services</string>
+    <string name="accept">Accept</string>
+    <string name="decline">Decline</string>
+    <string name="account_deactivate_info"><![CDATA[Your account will be deactivate & only admin can activate again.]]></string>
+    <string name="regular_program">Regular Program</string>
+    <string name="international">International</string>
+    <string name="server">Server</string>
+    <string name="_1080p">1080P</string>
+    <string name="dummy_name">Jhon Doe</string>
+    <string name="notifications">NOTIFICATIONS</string>
+    <string name="push_notification">Push Notification</string>
+    <string name="others">OTHERS</string>
+    <string name="no_data_found">No data found.</string>
+    <string name="no_subscription_history">No subscription history found.</string>
+    <string name="plan">Plan</string>
+    <string name="no_active_subscription_found">No active subscription found.</string>
+    <string name="upgrade_membership">Upgrade Membership</string>
+    <string name="p_date">P.Date</string>
+    <string name="from">From</string>
+    <string name="to">To</string>
+    <string name="action">Action</string>
+    <string name="status">Status</string>
+    <string name="by_tapping_the_button_you_agree_to_oxxo_term_amp_condition_and_privacy_policy"><![CDATA[By tapping the button, you agree to Oxxo Term & Condition and Privacy Policy.]]></string>
+
+
+    <string name="paid_content">You are trying to watch a paid content. Please subscribe a plan first.</string>
+    <string name="subscription_required">Subscription Required</string>
+    <string name="subscribe_text">Subscribe</string>
+    <string name="payment_success">Payment Success.</string>
+    <string name="invalid_card">Invalid card</string>
+    <string name="subscribe_error">To subscribe a plan, you have to login first.</string>
+    <string name="something_went_text">Something went wrong, try again or contact to your developer.</string>
+    <string name="something_went_wrong">Something went wrong.</string>
+    <string name="go_back">Go Back</string>
+    <string name="cvv">CVV</string>
+    <string name="mm_yy">MM/YY</string>
+    <string name="card_number">Card Number</string>
+    <string name="downloading">Downloading</string>
+    <string name="download_completed">Download Completed</string>
+    <string name="watch_now">Watch Now</string>
+    <string name="download">Download</string>
+    <string name="select_server">Select Server</string>
+    <string name="home">Home</string>
+    <string name="buy_any_subscription_below_and_enjoy_oxoo_prime">Buy any subscription below and enjoy OXOO prime features.</string>
+    <string name="all_tv_channels">TV Channels</string>
+    <string name="all_kids_videos">All Kids Videos</string>
+    <string name="all_tv_series">All TV Series</string>
+    <string name="unlimited_movies">Unlimited Movies</string>
+    <string name="please_select_your_payment_method">Please select your payment method</string>
+    <string name="download_appear_text">Your download item will be appear here.  Download item not found.</string>
+    <string name="send">Send</string>
+    <string name="searcHError_message">Title Or Type can\'t be empty</string>
+    <string name="external_download_links">External Download Links:</string>
+    <string name="rating">Rating</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="add_to_fav">Add to favourite</string>
+    <string name="remove_from_fav">Remove from Favorite</string>
+
+    <string name="enter_your_activation_code">Enter your activation code</string>
+    <string name="enter_code">Enter code here</string>
+    <string name="get_activation_code_following">Follow bellow steps to get code:</string>
+    <string name="instruction_2">2. Then go to Settings.</string>
+    <string name="instruction_3">3. Then click on "Connect To TV."</string>
+    <string name="signout">SignOut</string>
+    <string name="connect">Connect</string>
+    <string name="user_name">User Name:</string>
+    <string name="emailTv">Email:</string>
+    <string name="expire_date">Expire date:</string>
+    <string name="signed_in_as">Signed in as:</string>
+    <string name="connecting">Connecting...</string>
+    <string name="active_plan">Active Plan:</string>
+
+    <!-- dialog instruction -->
+    <string name="dialog_instruction_1">1. Go to your </string>
+    <string name="dialog_instruction_2"> app in your phone. </string>
+    <string name="dialog_instruction_3">2. Buy a package </string>
+    <string name="continue_browsing">Continue browsing</string>
+    <string name="enter_below_code_on_your_tv">Enter below code on your TV</string>
+    <string name="all_radio_channels">All Radio Channels</string>
+    <string name="listening_on">Listening on</string>
+    <string name="type_keyword">Type keyword</string>
+    <string name="year_range">Year Range</string>
+    <string name="cancel">Cancel</string>
+    <string name="tv_category">TV Category</string>
+    <string name="sign_up_now">Sign up now</string>
+    <string name="continue_with_google">Continue with Google</string>
+    <string name="sign_up">Sign up</string>
+    <string name="login">Login</string>
+    <string name="login_using_your_email_address">Login using your email address</string>
+    <string name="email_address">Email Address</string>
+    <string name="dont_t_have_an_account">Dont\'t have an account?</string>
+    <string name="sign_up_using_your_email_address">Sign Up using your email address</string>
+    <string name="name">Name</string>
+    <string name="all_countries">All Countries</string>
+    <string name="all_categories">All Categories</string>
+    <string name="external_download">External Download</string>
+    <string name="inApp_download">In App Download</string>
+    <string name="select_download_server">Select Download Server</string>
+    <string name="all_genres">All Genres</string>
+    <string name="download_not_permitted">You must have subscription to download this video.</string>
+    <string name="file_already_downloaded">File already downloaded.</string>
+    <string name="file_not_found">File not found</string>
+    <string name="phone_number_with_country_code">Phone number (with country code)</string>
+    <string name="gender">Gender</string>
+    <string name="male">Male</string>
+    <string name="user_name_">User Name:</string>
+    <string name="active_plan_">Active Plan:</string>
+    <string name="email_">Email:</string>
+    <string name="expire_date_">Expire Date:</string>
+    <string name="active_subscription">Active Subscription</string>
+    <string name="no_download_server_found">No download link found</string>
+    <string name="no_video_found">No video found</string>
+    <string name="failed_to_communicate">Failed to communicate with server. \nPlease check your API configuration</string>
+    <string name="no_configuration_data_found">No configuration data found.</string>
+    <string name="terms_and_policies"><![CDATA[Terms & Policies]]></string>
+    <string name="version_string">Version</string>
+
+
+</resources>
